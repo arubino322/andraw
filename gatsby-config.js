@@ -3,7 +3,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Andraw`,
+    title: `Andrew Draws`,
     siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [
@@ -17,6 +17,6 @@ module.exports = {
       }
     },
     "gatsby-plugin-mdx",
-    "gatsby-transformer-sharp"
-  ],
+    "gatsby-transformer-sharp",
+  ]
 }
