@@ -18,5 +18,8 @@ module.exports = {
     },
     "gatsby-plugin-mdx",
     "gatsby-transformer-sharp",
-  ]
+  ],
+  flags: {
+    DEV_SSR: true,
+  },
 }
